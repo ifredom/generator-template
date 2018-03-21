@@ -1,0 +1,16 @@
+{
+    "name": "ta-generator",
+    "version": "0.0.2",
+    "description": "A Front-end Project Structure Generator For Vue",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["ta-generator", "framework", "component", "front-end", "app", "vue", "spa"],
+    "author": "ifredom",
+    "repository": "ifredom/ta-generator",
+    "engines": {
+        "node": ">=4.0.0"
+    },
+    "license": "MIT"
+}
